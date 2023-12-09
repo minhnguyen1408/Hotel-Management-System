@@ -25,15 +25,14 @@ A Java-based Hotel Management System that facilitates efficient management of ho
 ### Steps
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/minhnguyen1408/hotel-management-system.git
+   cd hotel-management-system
+   ```
 
-    ```bash
-    git clone https://github.com/minhnguyen1408/hotel-management-system.git
-    cd hotel-management-system
-    ```
-
-2. Build and run the application:
-
-    javac -d target/classes src/main/java/com/example/hotelmanagement/*.java
+4. Build and run the application:
+   javac Main.java
+   java Main
 
 ## Contributing
 
