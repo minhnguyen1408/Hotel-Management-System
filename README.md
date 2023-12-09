@@ -31,6 +31,11 @@ A Java-based Hotel Management System that facilitates efficient management of ho
    ```
 
 4. Build and run the application:
+
+           ```bash
+        javac -d target/classes src/main/java/com/example/hotelmanagement/*.java
+        java -cp target/classes com.example.hotelmanagement.HotelManagementApplication
+        ```
    javac Main.java
    java Main
 
